@@ -1,0 +1,15 @@
+{
+    "CityworksURL": "http://cworktstappwv1/backdoor",
+    "CityworksUsername": "",
+    "CityworksPassword": "",
+    "ArcGISURL": "https://ral.maps.arcgis.com",
+    "ArcGISUsername": "",
+    "ArcGISPassword": "",
+    "Configurations": [
+        {
+            "EntityType": "ENTITYOFCHAD",
+            "FeatureLyr": "https://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Collector_Test_CHF/FeatureServer/0"
+        }
+    ]
+}
+

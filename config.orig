@@ -1,0 +1,22 @@
+{
+    "CityworksURL": "https://cloud01.cityworks.com/_SME_KSMMS_CURRENT",
+    "CityworksUsername": "",
+    "CityworksPassword": "",
+    "ArcGISURL": "https://cityworks.maps.arcgis.com",
+    "ArcGISUsername": "",
+    "ArcGISPassword": "",
+    "Configurations": [
+        {
+            "EntityType": "AAIRFIELDLIGHT",
+            "FeatureLyr": "https://services.arcgis.com/455ANVnHBozNhUJX/arcgis/rest/services/KSM_Airport_gdb/FeatureServer/0"
+        },
+        {
+            "EntityType": "AAIRFIELDMARKINGLINE",
+            "FeatureLyr": "https://services.arcgis.com/455ANVnHBozNhUJX/ArcGIS/rest/services/KSM_Airport_gdb/FeatureServer/9"
+        },
+        {
+            "EntityType": "AAIRFIELDMARKINGPOINT",
+            "FeatureLyr": "https://services.arcgis.com/455ANVnHBozNhUJX/ArcGIS/rest/services/KSM_Airport_gdb/FeatureServer/10"
+        }
+    ]
+}
